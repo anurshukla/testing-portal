@@ -1,0 +1,6 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : { "namespace": "android_app", "package_name": "com.deloitte.dd.smartstart.beers",
+    "sha256_cert_fingerprints": ["95:3D:62:D0:18:22:77:70:2D:7F:D8:54:CA:90:01:1C:EE:CA:80:34:EE:00:B6:3D:19:C6:F5:F7:09:91:2B:D1"] }
+  
+  }]

@@ -7,15 +7,13 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          This portal is for Testing Applications
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
+          href="beers/bira"
         >
-          Learn React
+          Click to open mobile app
         </a>
       </header>
     </div>
